@@ -760,6 +760,10 @@ li.content-column {
 .aside #searchsubmit {
 	display: none;	
 }
+.aside ul.tweets {
+    list-style: none;
+    margin-left: 0px;
+}
 .aside ul.tweets li {
     padding: 0 0 1em 0;
 }
