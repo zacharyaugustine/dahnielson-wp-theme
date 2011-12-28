@@ -76,12 +76,12 @@ a:hover {
     text-transform: uppercase;
 }
 #blog-title a {
-    color:#000;
+    color:#b33708;
     text-decoration:none;
 }
 #blog-title a:active,
 #blog-title a:hover {
-    color: #b33708;
+    color: #000;
 }
 #blog-description {
     color:#666;
