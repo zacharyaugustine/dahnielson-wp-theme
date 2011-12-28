@@ -760,6 +760,9 @@ li.content-column {
 .aside #searchsubmit {
 	display: none;	
 }
+.aside ul.tweets li {
+    padding: 0 0 1em 0;
+}
 /*
     Main Asides
 */
