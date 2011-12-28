@@ -712,8 +712,8 @@ li.content-column {
     margin-left:0;
 }
 .aside ul ul {
-    list-style:disc;
-    margin:0 0 0px 20px;
+    list-style:none;
+    margin:0 0 0px 0px;
 }
 .aside ul ul li {
     padding:0px 0;
